@@ -1,0 +1,5 @@
+streamlit
+regex 
+deep-translator 
+numpy 
+matplotlib
