@@ -355,12 +355,19 @@ LICENSE
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Sarath B Raam**
 
 Artificial Intelligence and Machine Learning
 SRM Institute of Science and Technology, Ramapuram
+
+**Datta Keshavan**
+
+Artificial Intelligence and Machine Learning
+SRM Institute of Science and Technology, Ramapuram
+
+
 
 ---
 
